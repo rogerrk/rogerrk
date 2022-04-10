@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rogerrk
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...python, html 5, css, javascript, sql
 - 💞️ I’m looking to collaborate on ... whatever I can help!
 - 📫 How to reach me ...
 
